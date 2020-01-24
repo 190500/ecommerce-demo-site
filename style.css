@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 28, 2019, 2:46:43 PM
+    Author     : rheac
+*/
+
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    
+    height: 700px;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+    text-align: center;
+	background: url("intro-bg_1.jpg");
+    color: #f8f8f8;
+    background-size: cover;
+
+    
+}
+#banner_content{
+    position: relative;
+
+
+ padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 23%;
+  margin-bottom: 10%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+margin-left:25%;
+margin-right:25%;
+ 
+align-items: center;
+ top:50%;
+   transform: translate(0, -50%); }
+    
+}
+
